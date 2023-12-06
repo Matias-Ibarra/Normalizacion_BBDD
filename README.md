@@ -11,3 +11,7 @@ Luego mediante una conexión a ElephantSQL y pgAdmin4 exportaremos los datos.
 [Creación de tablas](./crear_tablas.ipynb)
 
 [Carga de datos](./agregar_datos.ipynb)
+
+Diagrama entidad-relación:
+
+<img src="./diagrama.png" width ="1000" height="700">
